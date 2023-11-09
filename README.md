@@ -2,24 +2,16 @@
 
 <div align="center">
     <!-- release -->
-    <a href="https://github.com/brxnwies/SBDT/releases/latest" target="_blank">
+    <a href="https://github.com/brxwnies/SBDT/releases/latest" target="_blank">
         <img src="https://img.shields.io/github/v/release/brxnwies/SBDT?color=informational&include_prereleases&label=release&logo=github&logoColor=white" alt="release">
     </a>
     <!-- lines -->
-    <a href="https://github.com/brxnwies/SBDT/graphs/code-frequency" target="_blank">
+    <a href="https://github.com/brxwnies/SBDT/graphs/code-frequency" target="_blank">
         <img src="https://img.shields.io/tokei/lines/github/brxnwies/SBDT?label=lines&color=informational&logo=GitHub" alt="lines">
     </a>
-    <!-- license -->
-    <a href="./LICENSE" target="_blank">
-        <img src="https://img.shields.io/github/license/brxnwies/SBDT?color=informational" alt="license">
-    </a>
     <!-- contributors -->
-    <a href="https://github.com/brxnwies/SBDT/graphs/contributors" target="_blank">
+    <a href="https://github.com/brxwnies/SBDT/graphs/contributors" target="_blank">
         <img src="https://img.shields.io/github/contributors/brxnwies/SBDT?color=informational&logo=GitHub" alt="contributors">
-    </a>
-    <!-- discord -->
-    <a href="https://discord.gg/brxnwies" target="_blank">
-        <img src="https://img.shields.io/discord/123456789012345678?label=discord&color=informational&logo=Discord&logoColor=FFFFFF" alt="discord">
     </a>
     <!-- downloads -->
     <a href="https://github.com/brxnwies/SBDT/releases" target="_blank">
