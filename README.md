@@ -3,19 +3,19 @@
 <div align="center">
     <!-- release -->
     <a href="https://github.com/brxwnies/SBDT/releases/latest" target="_blank">
-        <img src="https://img.shields.io/github/v/release/brxnwies/SBDT?color=informational&include_prereleases&label=release&logo=github&logoColor=white" alt="release">
+        <img src="https://img.shields.io/github/v/release/brxwnies/SBDT?color=informational&include_prereleases&label=release&logo=github&logoColor=white" alt="release">
     </a>
     <!-- lines -->
     <a href="https://github.com/brxwnies/SBDT/graphs/code-frequency" target="_blank">
-        <img src="https://img.shields.io/tokei/lines/github/brxnwies/SBDT?label=lines&color=informational&logo=GitHub" alt="lines">
+        <img src="https://img.shields.io/tokei/lines/github/brxwnies/SBDT?label=lines&color=informational&logo=GitHub" alt="lines">
     </a>
     <!-- contributors -->
     <a href="https://github.com/brxwnies/SBDT/graphs/contributors" target="_blank">
-        <img src="https://img.shields.io/github/contributors/brxnwies/SBDT?color=informational&logo=GitHub" alt="contributors">
+        <img src="https://img.shields.io/github/contributors/brxwnies/SBDT?color=informational&logo=GitHub" alt="contributors">
     </a>
     <!-- downloads -->
     <a href="https://github.com/brxnwies/SBDT/releases" target="_blank">
-        <img src="https://img.shields.io/github/downloads/brxnwies/SBDT/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
+        <img src="https://img.shields.io/github/downloads/brxwnies/SBDT/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
     </a>
 </div>
 
