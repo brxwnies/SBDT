@@ -14,12 +14,12 @@
         <img src="https://img.shields.io/github/contributors/brxwnies/SBDT?color=informational&logo=GitHub" alt="contributors">
     </a>
     <!-- downloads -->
-    <a href="https://github.com/brxnwies/SBDT/releases" target="_blank">
+    <a href="https://github.com/brxwnies/SBDT/releases" target="_blank">
         <img src="https://img.shields.io/github/downloads/brxwnies/SBDT/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
     </a>
 </div>
 
-SkyBlock Dupe Tracker (SBDT) is a sophisticated Minecraft Forge 1.8.9 mod created by Brxnwies. It is designed to track and prevent item duplication in the Hypixel Skyblock game.
+SkyBlock Dupe Tracker (SBDT) is a sophisticated Minecraft Forge 1.8.9 mod created by Brxwnies. It is designed to track and prevent item duplication in the Hypixel Skyblock game.
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ SkyBlock Dupe Tracker (SBDT) is a sophisticated Minecraft Forge 1.8.9 mod create
 
 #### Installing the SkyBlock Dupe Tracker Mod (SBDT)
 
-1. Download the latest SBDT mod from the [releases page](https://github.com/brxnwies/SBDT/releases). If you encounter a warning about the file's safety, click `allow anyway` as all Java files are flagged by some browsers.
+1. Download the latest SBDT mod from the [releases page](https://github.com/brxwnies/SBDT/releases). If you encounter a warning about the file's safety, click `allow anyway` as all Java files are flagged by some browsers.
 2. Install the SBDT mod:
    - If you have Java installed, double-click the downloaded file and click "install."
    - If not, press the Windows key + R, type `%appdata%`, open the `.minecraft` folder, and locate the `mods` folder. Drag and drop the downloaded mod file into this folder.
