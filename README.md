@@ -15,7 +15,7 @@
     </a>
     <!-- downloads -->
     <a href="https://github.com/brxwnies/SBDT/releases" target="_blank">
-        <img src="https://img.shields.io/github/downloads/brxwnies/SBDT/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
+        <img src="https://img.shields.io/github/downloads/Kamilahsantos/Java-week-LinuxTips/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
     </a>
 </div>
 
