@@ -13,10 +13,6 @@
     <a href="https://github.com/brxwnies/SBDT/graphs/contributors" target="_blank">
         <img src="https://img.shields.io/github/contributors/brxwnies/SBDT?color=informational&logo=GitHub" alt="contributors">
     </a>
-    <!-- downloads -->
-    <a href="https://github.com/brxwnies/SBDT/releases" target="_blank">
-        <img src="https://img.shields.io/github/downloads/Kamilahsantos/Java-week-LinuxTips/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
-    </a>
 </div>
 
 SkyBlock Dupe Tracker (SBDT) is a sophisticated Minecraft Forge 1.8.9 mod created by Brxwnies. It is designed to track and prevent item duplication in the Hypixel Skyblock game.
